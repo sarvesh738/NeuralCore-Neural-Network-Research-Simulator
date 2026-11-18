@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use NeuralCore, cite the repository and version you used."
+title: "NeuralCore: A NumPy Neural Network Research Laboratory"
+version: 0.1.0
+date-released: 2026-11-18
+type: software
